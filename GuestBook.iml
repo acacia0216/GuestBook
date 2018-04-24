@@ -10,9 +10,6 @@
           <root url="file://$MODULE_DIR$/web" relative="/" />
         </webroots>
       </configuration>
-      <facet type="webservices" name="WebServices">
-        <configuration ws.engine="Apache Axis" />
-      </facet>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -22,7 +19,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="JAX-WS-Apache Axis" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.5.16" level="application_server_libraries" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="ojdbc6" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>

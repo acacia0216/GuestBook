@@ -29,9 +29,9 @@
 	</form>
 	<br/>
 
-	<%
-		for(GuestBookVO vo : list){
-	%>
+		<%
+			for(GuestBookVO vo : list){
+		%>
 	<table width=510 border=1>
 		<tr>
 			<td>[<%=vo.getNo()%>]</td>
